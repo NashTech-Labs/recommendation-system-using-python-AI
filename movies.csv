@@ -1,0 +1,125 @@
+movieId,title,genres
+1,Toyland Tales (2024),Adventure|Animation|Children|Comedy|Fantasy
+2,Mystical Safari (2024),Adventure|Animation|Children|Comedy|Fantasy
+3,Love & Laughter (2024),Adventure|Animation|Children|Comedy|Fantasy
+4,Whispers of the Heart (2024),Adventure|Animation|Children|Comedy|Fantasy
+5,The Wedding Planner's Dilemma (2024),Adventure|Animation|Children|Comedy|Fantasy
+6,Underworld Chronicles (2024),Adventure|Animation|Children|Comedy|Fantasy
+7,Enchanted Evening (2024),Comedy|Romance
+8,Adventure Island (2024),Adventure|Children
+9,Code Red: Crisis on Campus (2024),Action
+10,Operation Midnight (2024),Action|Adventure|Thriller
+11,American Sweethearts (2024),Comedy|Drama|Romance
+12,Nightmare Manor (2024),Comedy|Horror
+13,Arctic Expedition (2024),Adventure|Animation|Children
+14,Presidential Secrets (2024),Drama
+15,Island Romance (2024),Action|Adventure|Romance
+16,High Stakes Casino (2024),Crime|Drama
+17,Sentiments and Sensibility (2024),Drama|Romance
+18,Hotel Hijinks (2024),Comedy
+19,Wildlife Adventures (2024),Comedy
+20,Cash Quest (2024),Action|Comedy|Crime|Drama|Thriller
+21,Hollywood Hustle (2024),Comedy|Crime|Thriller
+22,The Imitation Game (2024),Crime|Drama|Thriller|Mystery|Horror
+23,The Eliminator (2024),Action|Crime|Thriller
+24,The Alchemist (2024),Drama|Sci-Fi
+25,Neon Nights (2024),Drama|Romance
+26,Obsidian Othello (2024),Drama
+27,Summer Memories (2024),Children|Drama
+28,Persuasion Point (2024),Drama|Romance
+29,Island of Illusions (2024),Adventure|Drama|Fantasy|Mystery|Sci-Fi
+30,Shadows of Shanghai (2024),Crime|Drama
+31,Chalkboard Champions (2024),Drama
+32,Time Warp (2024),Mystery|Sci-Fi|Thriller
+34,Babe's Big Adventure (2024),Children|Drama
+36,Ghosts of the Past (2024),Crime|Drama
+38,Double Trouble (2024),Children|Comedy
+39,Class Dismissed (2024),Comedy|Romance
+40,Whispers in the Wind (2024),Drama
+41,Rebellion Rising (2024),Drama|War
+42,Secrets Unearthed (2024),Action|Crime|Drama
+43,The Reborn (2024),Drama
+44,Mythical Warriors (2024),Action|Adventure|Fantasy
+45,Fatal Attractions (2024),Comedy|Drama|Thriller
+46,Quilting Dreams (2024),Drama|Romance
+47,The Seventh Hour (2024),Mystery|Thriller
+48,Legendary Love (2024),Animation|Children|Drama|Musical|Romance
+49,Midnight Romance (2024),Drama|Romance
+50,The Usual Suspects Reimagined (2024),Crime|Mystery|Thriller
+52,Aphrodite's Affair (2024),Comedy|Drama|Romance
+53,Lost in Lamerica (2024),Adventure|Drama
+54,The Great Soccer Showdown (2024),Children|Comedy
+55,American Melancholy (2024),Drama
+57,A Homecoming Tale (2024),Drama
+58,Love Letters (2024),Comedy|Drama|Romance
+60,Adventures in Miniature (2024),Adventure|Children|Fantasy
+61,An Eye for Justice (2024),Drama|Thriller
+62,Melodies of the Soul (2024),Drama
+63,Hoodlums and Hilarity (2024),Comedy|Crime
+64,Catch of the Day (2024),Comedy|Romance
+65,Bio-Revolution (2024),Comedy
+66,Cybernetic Odyssey (2024),Action|Sci-Fi|Thriller
+68,Forbidden Love (2024),Comedy|Romance
+69,Freaky Friday (2024),Comedy
+70,From Dawn Till Dusk (2024),Action|Comedy|Horror|Thriller
+71,Fierce Justice (2024),Action
+72,Life Lessons (2024),Comedy|Drama
+73,"Misérables: Redemption (2024)",Drama|War
+74,Bouquet of Roses (2024),Drama|Romance
+75,Bully's Redemption (2024),Comedy|Drama
+76,Scream Factory (2024),Action|Sci-Fi|Thriller
+77,Idol Icons (2024),Documentary
+78,The Guard (2024),Action|Crime|Drama|Thriller
+79,The Jury's Verdict (2024),Drama|Thriller
+80,Flight of the Balloon (2024),Children|Drama
+81,Denver's Delight (2024),Crime|Drama|Romance
+82,Antonia's Journey (2024),Comedy|Drama
+83,Once Upon a Time... In America (2024),Drama|Romance
+85,Insect Illusions (2024),Drama|Romance
+86,Stormy Seas (2024),Action|Adventure|Drama
+87,Monkey Business (2024),Children|Comedy
+88,Sheepish Shenanigans (2024),Comedy
+89,Race Against Time (2024),Action|Thriller
+92,Haunted Memories (2024),Drama|Horror|Thriller
+93,Brooklyn's Bite (2024),Comedy|Horror|Romance
+94,The Perfect Match (2024),Comedy|Drama|Romance
+95,Arrow's End (2024),Action|Adventure|Thriller
+96,Midwinter Mischief (2024),Comedy|Drama
+97,"The Abyss of Hate (2024)",Crime|Drama
+99,Hollywood's Highs and Lows (2024),Documentary
+100,The Heart of the City (2024),Drama|Thriller
+101,The Great Escape (2024),Adventure|Comedy|Crime|Romance
+102,Mr. Right Now (2024),Comedy
+103,Memories Forgotten (2024),Mystery|Sci-Fi|Thriller
+104,Hilarious Hijinks (2024),Comedy
+105,"Bridges Beyond Time (2024)",Drama|Romance
+106,No One Loves Me (2024),Comedy|Drama
+107,Pirate's Paradise (2024),Adventure|Children|Comedy|Musical
+108,The Catwalk (2024),Documentary
+110,The Brave and the Bold (2024),Action|Drama|War
+111,Taxi Ride to Redemption (2024),Crime|Drama|Thriller
+112,Street Smarts (2024),Action|Adventure|Comedy|Crime
+113,Innocence Lost (2024),Drama|Mystery
+116,Remembering Anne Frank (2024),Documentary
+117,"The Poisoner's Plot (2024)",Crime|Drama
+118,Leap of Faith (2024),Comedy|Romance
+119,"The Great Heist (2024)",Comedy
+121,Boys of Saint Vincent's (2024),Drama
+122,Ring Around Romance (2024),Comedy|Romance
+123,Secrets of the East (2024),Drama|Mystery|Romance
+125,Crashing into Love (2024),Comedy
+126,"The NeverEnding Story: Chronicles (2024)",Adventure|Children|Fantasy
+128,The Divine Consort (2024),Documentary
+129,A Slice of Pie (2024),Comedy|Romance
+132,Hidden Agenda (2024),Thriller
+135,The Submarine Comedy (2024),Comedy
+137,A Man of the People (2024),Documentary
+140,Front Page Romance (2024),Drama|Romance
+141,"Behind the Curtain (2024)",Comedy
+144,"Brothers Reunited (2024)",Comedy
+145,Undercover Cops (2024),Action|Comedy|Crime|Drama|Thriller
+146,"Panda's Peril (2024)",Adventure|Children
+147,"Diaries of a Baller (2024)",Drama
+148,"A Very Big Adventure (2024)",Drama
+149,Amateur Hour (2024),Crime|Drama|Thriller
+150,Space Odyssey (2024),Adventure|Drama|IMAX
