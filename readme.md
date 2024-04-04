@@ -11,7 +11,7 @@ This Python script implements a simple movie recommendation system based on cont
 ## Usage
 
 1. Ensure you have installed the required packages mentioned above.
-    ```sh $ pip install -r requirnment.txt ```
+    ``` $ pip install -r requirnment.txt ```
 2. Place the `movies.csv` file containing movie data in the same directory as the script.
 3. Run the script `python3 recommendation.py`.
 4. Enter the name of a movie when prompted.
